@@ -1,0 +1,7 @@
+# Archivos de configuración
+.vscode/
+.idea/
+
+# Carpetas y archivos generados por Python
+__pycache__/
+*.pyc
